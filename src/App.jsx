@@ -70,7 +70,7 @@ function App() {
             <div className="bg-yellow-500 p-1.5 rounded-lg">
               <Coins className="text-black w-6 h-6" />
             </div>
-            <span className="text-xl font-bold tracking-tight">ROBUX<span className="text-yellow-500">GEN</span></span>
+            <span className="text-xl font-bold tracking-tight">ANGKOL<span className="text-yellow-500"> ROBUX</span></span>
           </div>
           <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-white/60">
             <a href="#" className="hover:text-yellow-500 transition-colors">Home</a>
@@ -263,7 +263,7 @@ function App() {
         <div className="max-w-4xl mx-auto px-4 text-center">
             <div className="flex items-center justify-center gap-2 mb-6">
                 <Coins className="text-yellow-500 w-5 h-5" />
-                <span className="text-lg font-bold tracking-tight">ROBUX<span className="text-yellow-500">GEN</span></span>
+                <span className="text-lg font-bold tracking-tight">ANGKOL<span className="text-yellow-500"> ROBUX</span></span>
             </div>
             <p className="text-white/20 text-xs mb-8 leading-relaxed max-w-2xl mx-auto italic">
                 DISCLAIMER: This website is a simulation and prank tool designed for educational and entertainment purposes only. It does not generate real Robux or any other virtual currency. All images and trademarks belong to their respective owners. We are not affiliated with, authorized, maintained, sponsored or endorsed by Roblox Corporation or any of its affiliates or subsidiaries.
@@ -274,7 +274,7 @@ function App() {
                 <a href="#" className="hover:text-white transition-colors">Contact Support</a>
             </div>
             <div className="mt-8 text-white/10 text-[10px] uppercase tracking-[0.2em]">
-                &copy; 2024 ROBUXGEN. All Rights Reserved.
+                &copy; 2024 ANGKOL ROBUX. All Rights Reserved.
             </div>
         </div>
       </footer>
